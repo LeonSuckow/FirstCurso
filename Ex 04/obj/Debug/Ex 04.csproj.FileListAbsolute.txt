@@ -1,0 +1,7 @@
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\bin\Debug\Ex 04.exe.config
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\bin\Debug\Ex 04.exe
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\bin\Debug\Ex 04.pdb
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\obj\Debug\Ex 04.csprojResolveAssemblyReference.cache
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\obj\Debug\Ex 04.csproj.CoreCompileInputs.cache
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\obj\Debug\Ex 04.exe
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\Ex 04\obj\Debug\Ex 04.pdb

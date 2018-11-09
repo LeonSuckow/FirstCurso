@@ -1,0 +1,6 @@
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\bin\Debug\FirstAula.exe.config
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\bin\Debug\FirstAula.exe
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\bin\Debug\FirstAula.pdb
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\obj\Debug\FirstAula.csproj.CoreCompileInputs.cache
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\obj\Debug\FirstAula.exe
+C:\Users\leon.lucas\Desktop\Curso OOP C#\FirstAula\FirstAula\obj\Debug\FirstAula.pdb
